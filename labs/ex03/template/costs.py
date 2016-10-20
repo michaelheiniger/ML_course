@@ -12,3 +12,4 @@ def compute_loss(y, tx, w):
     
     #MAE
     #return 1/(2*y.shape[0])*abs(e).sum()
+    
